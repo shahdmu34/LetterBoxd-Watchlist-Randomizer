@@ -66,7 +66,6 @@ function App() {
         <header className='Title text-3xl mb-4 font-BreeSerif'> 
           LetterBoxd Movie Watchlist Randomizer
         </header>
-        {/* get the font & pics to dec with screen size */}
         <img src={starIcon} alt="rightIcon" className='w-16 h-16 mb-4 animate-spin-slow'></img>
 
 
